@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vipul Sharma</h1>
-<h3 align="center">Full-stack developer with hands-on experience in the MERN and Python stacks. Passionate about writing clean, scalable code. Solved 600+ DSA problems on LeetCode. Looking for opportunities to learning and building meaningful products</h3>
+<h2 align="center"> Aggressively looking for opportunities to learn, grow, and build meaningful products that solve real-world problems </h2>
+<h3 align="center">Full-stack developer with hands-on experience in the MERN and Python stacks. Passionate about writing clean, scalable code. Actively Solving Data Structure & Algorithms problems on LeetCode.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1vipul-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="1vipul-sharma" /> </p>
 
